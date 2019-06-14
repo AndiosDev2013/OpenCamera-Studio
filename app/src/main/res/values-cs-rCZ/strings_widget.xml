@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>	
+    
+	<string name="widgetLoadingText">Nahrávání…</string>
+	<string name="widgetConfigureDoneText">Hotovo</string>
+	<string name="widgetBgColorTitle">Pozadí widgetu</string>
+	<string name="widgetBgColorTitleTranslucent">Průsvitné</string>
+	<string name="widgetBgColorTitleBlack">Černé</string>
+	<string name="widgetBgColorTitleRed">Červené</string>
+	<string name="widgetBgColorTitleTransparent">Průhledné</string>
+	<string name="widgetConfigTitle">Rozložení widgetu</string>
+	<string name="widgetHideItem">Nic</string>
+	<string name="widgetTorchItem">Svítilna</string>
+	<string name="widgetBarcodeItem">Čtečka QR kódů</string>
+	<string name="widgetSettingsItem">Nastavení</string>
+	<string name="widgetHideSettingsText">Pokud skryjete tlačítko pro nastavení widgetu, nebudete již moci současný widget přenastavit!</string>
+	<string name="widgetAlert">Varování!</string>	
+	<string name="widgetShopText">Pro aktivaci widgetu musíte zakoupit některý z prémiových doplňků.</string>
+	<string name="widgetGoShopText">Google Play</string>
+	<string name="widgetActivation">Aktivace widgetu</string>
+	
+	<string name="widgetName">Velký volitelný</string>
+	<string name="widgetSolidName">Malý volitelný</string>
+	<string name="widgetFullSolidName">Úplný</string>
+	
+	<string name="widgetLauncherTitle">A Better Camera Widget</string>
+	<string name="widgetLauncherContent">Pro umístění widgetu na domovskou obrazovku vyberte ABC Widget z nabídky widgetů.</string>
+</resources>

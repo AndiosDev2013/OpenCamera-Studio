@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="trial_left">%1$s mod slobodnog slikanja preostalo: %2$d</string>
+    <string name="trial_finished">Free %1$s shots exhausted, molim otključajte</string>
+
+    <string name="cannot_create_jpeg">Error: Nemoguće spremiti sliku!</string>
+    <string name="choose_folder_pick">Koristi tu mapu</string>
+    <string name="choose_folder_newfolder">Nova mapa</string>
+    <string name="choose_folder_alert_0">Oops</string>
+    <string name="choose_folder_alert_1">Oprosti, mi ne možemo staviti tu slike :(</string>
+    <string name="choose_folder_alert_2">Uredu</string>
+    <string name="choose_folder_alert_0_2">Ime nove mape</string>
+    <string name="choose_folder_alert_1_2">Oprosti, mi ne možemo stvoriti tu novu mapu :(</string>
+    <string name="choose_folder_alert_2_1">Stvori</string>
+    <string name="choose_folder_alert_2_2">Prekini</string>
+    <string name="pref_advanced_saving_saveToPref_title">Spremi u...</string>
+    <string name="pref_advanced_saving_saveToPref_summary">Odaberi lokaciju za spremanje fotografija</string>
+    <string name="choose_folder">Odaberi mapu</string>
+    <string name="pref_advanced_saving_saveToPref_CantSaveToSD">Android KitKat ne dopušta spremanje na sdcard.</string>
+    
+    <string name="save_to_phone">Telefon</string>
+    <string name="save_to_memorycard">Memorijska kartica</string>
+    <string name="save_to_custom">Posebna mapa</string>
+    
+    <string name="dimensions_none">Ništa</string>
+    
+    <string name="already_unlocked">otključano</string>
+
+    <string name="volumeBtnTakePic">Slikaj</string>
+    <string name="volumeBtnZoom">Zumiraj</string>
+    <string name="volumeBtnExpoCorrection">Svjetlina</string>
+    <string name="volumeBtnNone">Ništa</string>
+    
+    <string name="raterMain">Ako ti se sviđa aplikacija, ocijeni nas\n\nHvala za podršku</string>
+    <string name="raterRate">Ocijeni Bolja kamera</string>
+    <string name="raterNo">Ne, hvala</string>
+    
+    <string name="raterSendReview"> Brinemo za tvoje opcije. Pošalji nam upite i primjedbe da promijenimo to.</string>
+    <string name="raterSend">Pošalji</string>
+    
+</resources>
